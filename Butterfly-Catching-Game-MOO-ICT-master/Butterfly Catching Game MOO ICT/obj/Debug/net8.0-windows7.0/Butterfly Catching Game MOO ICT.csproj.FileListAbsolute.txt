@@ -1,0 +1,54 @@
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\bin\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.exe
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\bin\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.deps.json
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\bin\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.runtimeconfig.json
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\bin\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\bin\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.pdb
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly_Catching_Game_MOO_ICT.Form1.resources
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly_Catching_Game_MOO_ICT.GameWindow.resources
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly_Catching_Game_MOO_ICT.Properties.Resources.resources
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.csproj.GenerateResource.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.AssemblyInfoInputs.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.AssemblyInfo.cs
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\refint\Butterfly Catching Game MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.pdb
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.genruntimeconfig.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\ref\Butterfly Catching Game MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\bin\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.exe
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\bin\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.deps.json
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\bin\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.runtimeconfig.json
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\bin\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\bin\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.pdb
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly_Catching_Game_MOO_ICT.Form1.resources
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly_Catching_Game_MOO_ICT.GameWindow.resources
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly_Catching_Game_MOO_ICT.Properties.Resources.resources
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.csproj.GenerateResource.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.AssemblyInfoInputs.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.AssemblyInfo.cs
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\refint\Butterfly Catching Game MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.pdb
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.genruntimeconfig.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\WF\09\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\ref\Butterfly Catching Game MOO ICT.dll
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\bin\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.exe
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\bin\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.deps.json
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\bin\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.runtimeconfig.json
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\bin\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.dll
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\bin\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.pdb
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly_Catching_Game_MOO_ICT.Form1.resources
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly_Catching_Game_MOO_ICT.GameWindow.resources
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly_Catching_Game_MOO_ICT.Properties.Resources.resources
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.csproj.GenerateResource.cache
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.AssemblyInfoInputs.cache
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.AssemblyInfo.cs
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.csproj.CoreCompileInputs.cache
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.dll
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\refint\Butterfly Catching Game MOO ICT.dll
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.pdb
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.genruntimeconfig.cache
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\ref\Butterfly Catching Game MOO ICT.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Butterfly Catching Game MOO ICT/1.0.0": {
+        "runtime": {
+          "Butterfly Catching Game MOO ICT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Butterfly Catching Game MOO ICT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
