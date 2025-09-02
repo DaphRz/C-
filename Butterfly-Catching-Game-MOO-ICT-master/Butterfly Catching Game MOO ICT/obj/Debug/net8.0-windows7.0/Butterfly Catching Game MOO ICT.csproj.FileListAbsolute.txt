@@ -52,3 +52,4 @@ C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\o
 C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.pdb
 C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.genruntimeconfig.cache
 C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\ref\Butterfly Catching Game MOO ICT.dll
+C:\DevC\Butterfly-Catching-Game-MOO-ICT-master\Butterfly Catching Game MOO ICT\obj\Debug\net8.0-windows7.0\Butterfly Catching Game MOO ICT.sourcelink.json

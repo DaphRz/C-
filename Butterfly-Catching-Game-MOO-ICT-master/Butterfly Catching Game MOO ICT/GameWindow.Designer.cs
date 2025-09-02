@@ -87,6 +87,7 @@
             DoubleBuffered = true;
             Name = "GameWindow";
             Text = "Game Window: Butterfly Catching Game MOO ICT";
+            Load += GameWindow_Load;
             Click += FormClickEvent;
             Paint += FormPaintEvent;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();

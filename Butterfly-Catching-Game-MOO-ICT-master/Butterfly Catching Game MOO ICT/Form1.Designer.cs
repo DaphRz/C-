@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             label1 = new Label();
             button1 = new Button();
             pictureBox1 = new PictureBox();
@@ -36,6 +35,7 @@
             pictureBox3 = new PictureBox();
             pictureBox4 = new PictureBox();
             label2 = new Label();
+            label3 = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
@@ -107,12 +107,22 @@
             // label2
             // 
             label2.Font = new Font("MV Boli", 12F);
-            label2.Location = new Point(12, 450);
+            label2.Location = new Point(12, 459);
             label2.Name = "label2";
             label2.Size = new Size(860, 161);
             label2.TabIndex = 3;
-            label2.Text = resources.GetString("label2.Text");
+            label2.Text = "\r\n\r\n. Clique nas Borboletas Voadoras que aparecerão e sua pontuação será contada\r\n. Você terá um tempo limitado para pegar uma quantidade mínima de Borboletas pré-definido\r\n\r\nBoa Sorte!\r\n";
             label2.Click += label2_Click;
+            // 
+            // label3
+            // 
+            label3.Font = new Font("MV Boli", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label3.Location = new Point(12, 459);
+            label3.Name = "label3";
+            label3.Size = new Size(860, 27);
+            label3.TabIndex = 4;
+            label3.Text = "Como Jogar \r\n";
+            label3.Click += label3_Click_1;
             // 
             // Form1
             // 
@@ -120,6 +130,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(254, 223, 231);
             ClientSize = new Size(884, 611);
+            Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(pictureBox4);
             Controls.Add(pictureBox3);
@@ -129,6 +140,7 @@
             Controls.Add(label1);
             Name = "Form1";
             Text = "Butterfly Catching Game MOO ICT";
+            Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
@@ -147,5 +159,6 @@
         private PictureBox pictureBox3;
         private PictureBox pictureBox4;
         private Label label2;
+        private Label label3;
     }
 }

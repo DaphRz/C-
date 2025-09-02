@@ -13,10 +13,12 @@ namespace Butterfly_Catching_Game_MOO_ICT
 {
     public partial class GameWindow : Form
     {
-        float timeLeft = 2f;
+        float timeLeft = 4f;
         int caught = 0;
         int spawnTime = 0;
         int spawnLimit = 30;
+        int currentLevel = 1;
+
         List<Butterfly> butterfly_list = new List<Butterfly>();
         Random rand = new Random();
 
@@ -142,21 +144,74 @@ namespace Butterfly_Catching_Game_MOO_ICT
             this.Invalidate();
             butterfly_list.Clear();
             caught = 0;
-            timeLeft = 60f;
+            timeLeft = 4f;
             spawnTime = 0;
-            lblTime.Text = "Time: 00";
+            lblTime.Text = "Tempo: 00";
             lblCaught.Text = "Caught: 0";
+            currentLevel = 1;
+
+            this.BackgroundImage = Properties.Resources.background;
+            this.BackgroundImageLayout = ImageLayout.Stretch;
+            GameTimer.Start();
+        }
+
+        private void NextGame()
+        {
+            this.Invalidate();
+            butterfly_list.Clear();
+            caught = 0;
+            timeLeft = 10f; // ou outro tempo maior para fases seguintes
+            spawnTime = 0;
+            lblTime.Text = "Tempo: 00";
+            lblCaught.Text = "Caught: 0";
+
+            currentLevel++;
+
+            // muda o plano de fundo dependendo da fase
+
+            switch (currentLevel)
+            {
+                case 1:
+                    this.BackgroundImage = Properties.Resources.background;
+                    break;
+                case 2:
+                    this.BackgroundImage = Properties.Resources.fase2;
+                    break;
+                case 3:
+                    this.BackgroundImage = Properties.Resources.fase3;
+                    break;
+                default:
+                    this.BackgroundImage = null;  // sem imagem ou fundo padrão
+                    break;
+            }
+
+            this.BackgroundImageLayout = ImageLayout.Stretch;
+
             GameTimer.Start();
         }
 
         private void GameOver()
         {
             GameTimer.Stop();
-            MessageBox.Show("Tempo Esgotado!!  Você pegou " + caught + " borboletas.\n\nClique em OK para tentar novamente.", "Fase Concluída ");
-            RestartGame();
+
+            if (caught == 1)
+            {
+                MessageBox.Show("Tempo Esgotado!!  Você pegou " + caught + " borboleta.\n\nClique em OK para tentar novamente.", "Game Over ");
+                RestartGame();
+            }
+            else
+            {
+                MessageBox.Show("Tempo Esgotado!!  Você pegou " + caught + " borboletas.\n\nClique em OK para ir à Próxima Fase.", "Fase Concluída ");
+                NextGame();
+            }
         }
 
         private void lblCaught_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void GameWindow_Load(object sender, EventArgs e)
         {
 
         }
