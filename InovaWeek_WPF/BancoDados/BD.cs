@@ -14,5 +14,10 @@ namespace InovaWeek_WPF.BancoDados
         public static void SalvarBD(IdeiaInovadora i) => mybd.Add(i);
 
         public static List<IdeiaInovadora> ListarBD() => mybd;
+
+        /* public static IdeiaInovadora RetornarBD(int id)
+        {
+            IdeiaInovadora
+        } */ // terminar
     }
 }

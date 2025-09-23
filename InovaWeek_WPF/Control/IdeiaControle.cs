@@ -27,5 +27,10 @@ namespace InovaWeek_WPF.Control
 
             return false;
         }
+
+        /* public List<IdeiaInovadora> ControleRecuperarIdeia()
+        {
+            return ModeloPersistencia.Recuperar
+        } */ // terminar
     }
 }

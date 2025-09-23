@@ -24,5 +24,7 @@ namespace InovaWeek_WPF.Model
         {
             return $"Área: {Area}, Ideia: {Ideia}, Custo: {Custo:C}";
         }
+
+        //public IdeiaInovadora RecuperarIdeiaInovadoraBD
     }
 }

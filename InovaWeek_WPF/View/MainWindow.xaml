@@ -9,15 +9,16 @@
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <Label Content="Área de Atuação:" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="26,26,0,0" VerticalAlignment="Top" Height="36" Width="123"/>
-        <TextBox x:Name="TextBoxArea" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="135,30,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <Label Content="Descreva sua ideia aqui:" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="26,76,0,0" VerticalAlignment="Top" Height="36" Width="149"/>
-        <TextBox x:Name="TextBoxIdeia" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="29,112,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="305" Height="65"/>
-        <Label Content="Custo:" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="26,193,0,0" VerticalAlignment="Top" Height="36" Width="149"/>
-        <TextBox x:Name="TextBoxCusto" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="81,197,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <Button Content="Cadastrar" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="356,221,0,0" VerticalAlignment="Top" Width="65" Click="Button_Click"/>
+        <Label Content="Área de Atuação:" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="26,26,0,0" VerticalAlignment="Top" Height="36" Width="123"/>
+        <TextBox x:Name="TextBoxArea" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="135,30,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Descreva sua ideia aqui:" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="26,76,0,0" VerticalAlignment="Top" Height="36" Width="149"/>
+        <TextBox x:Name="TextBoxIdeia" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="29,112,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="305" Height="65"/>
+        <Label Content="Custo:" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="26,193,0,0" VerticalAlignment="Top" Height="36" Width="149"/>
+        <TextBox x:Name="TextBoxCusto" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="81,197,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Cadastrar" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="356,221,0,0" VerticalAlignment="Top" Width="65" Click="Button_Click"/>
 
     </Grid>
 </Window>
