@@ -35,10 +35,10 @@ namespace Butterfly_Catching_Game_MOO_ICT
             switch (difficultyLevel)
             {
                 case 1:
-                    baseMin = 0.35; baseRange = 0.6;   // lento
+                    baseMin = 0.35; baseRange = 3.5;   // lento
                     break;
                 case 2:
-                    baseMin = 3.0; baseRange = 3.0;    // moderado (ajuste aqui)
+                    baseMin = 3.0; baseRange = 3.0;    // moderado 
                     break;
                 /* case 3:
                     baseMin = 1.0; baseRange = 1.2;    // mais rápido

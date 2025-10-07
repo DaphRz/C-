@@ -21,9 +21,9 @@ namespace Butterfly_Catching_Game_MOO_ICT
         Random rand = new Random();
 
         // DEBUG / TEST
-bool useAnimatedGIFs = false; // false desliga animação para teste; deixe true para voltar a animar
-Dictionary<Image, Image> imageCache = new Dictionary<Image, Image>();
-System.Diagnostics.Stopwatch frameTimer = new System.Diagnostics.Stopwatch();
+        bool useAnimatedGIFs = false; // false desliga animação para teste; deixe true para voltar a animar
+        Dictionary<Image, Image> imageCache = new Dictionary<Image, Image>();
+        System.Diagnostics.Stopwatch frameTimer = new System.Diagnostics.Stopwatch();
 
 
         Image[] butterfly_images = {
@@ -135,7 +135,7 @@ System.Diagnostics.Stopwatch frameTimer = new System.Diagnostics.Stopwatch();
                 MouseEventArgs mouse = (MouseEventArgs)e;
 
                 if (mouse.X >= (int)butterfly.posX && mouse.Y >= (int)butterfly.posY &&
-    mouse.X < (int)butterfly.posX + butterfly.width && mouse.Y < (int)butterfly.posY + butterfly.height)
+                    mouse.X < (int)butterfly.posX + butterfly.width && mouse.Y < (int)butterfly.posY + butterfly.height)
                 {
                     butterfly_list.Remove(butterfly);
                     caught++;
@@ -265,7 +265,7 @@ System.Diagnostics.Stopwatch frameTimer = new System.Diagnostics.Stopwatch();
         {
             GameTimer.Stop();
 
-            if (caught == 1)
+            if (caught <= 1)
             {
                 MessageBox.Show("Tempo Esgotado!! Você pegou " + caught + " borboleta.\n\nClique em OK para tentar novamente.", "Game Over");
                 RestartGame();
@@ -279,7 +279,6 @@ System.Diagnostics.Stopwatch frameTimer = new System.Diagnostics.Stopwatch();
 
         private void lblCaught_Click(object sender, EventArgs e)
         {
-            // Pode deixar vazio ou remover se não for usar
         }
 
         private void GameWindow_Load(object sender, EventArgs e)

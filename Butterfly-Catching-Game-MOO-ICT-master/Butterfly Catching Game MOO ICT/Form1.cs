@@ -14,8 +14,6 @@ namespace Butterfly_Catching_Game_MOO_ICT
             game.FormClosed += (s, args) => this.Close(); // fecha o menu quando o jogo fechar
             game.Show();
         }
-
-
         private void label1_Click(object sender, EventArgs e)
         {
 
