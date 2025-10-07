@@ -60,6 +60,7 @@ namespace Butterfly_Catching_Game_MOO_ICT
                 g.CompositingQuality = System.Drawing.Drawing2D.CompositingQuality.HighSpeed;
                 g.InterpolationMode = System.Drawing.Drawing2D.InterpolationMode.Low;
                 g.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.None;
+
                 // desenha o primeiro frame da imagem no bitmap (se img for GIF animado, DrawImage usa o frame atual)
                 g.DrawImage(img, 0, 0, width, height);
             }
@@ -122,6 +123,7 @@ namespace Butterfly_Catching_Game_MOO_ICT
             }
 
             frameTimer.Stop();
+
             // loga no Output do Visual Studio (ou console). 
             System.Diagnostics.Debug.WriteLine($"Frame ms={frameTimer.ElapsedMilliseconds}, sprites={butterfly_list.Count}");
 

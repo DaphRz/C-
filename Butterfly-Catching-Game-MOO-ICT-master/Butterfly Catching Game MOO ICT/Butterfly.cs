@@ -17,7 +17,7 @@ namespace Butterfly_Catching_Game_MOO_ICT
         public float posX;
         public float posY;
 
-        // compatibilidade com código antigo que use positionX/positionY
+        // compatibilidade com código que use positionX/positionY
         public int positionX { get => (int)posX; set => posX = value; }
         public int positionY { get => (int)posY; set => posY = value; }
 
